@@ -1,0 +1,1000 @@
+1	Harvard University	USA	7	9	1	1	5	100
+2	Massachusetts Institute of Technology	USA	9	17	12	4	1	91.67
+3	Stanford University	USA	17	11	4	2	15	89.5
+4	University of Cambridge	United Kingdom	10	24	16	11	50	86.17
+5	California Institute of Technology	USA	2	29	37	22	18	85.21
+6	Princeton University	USA	8	14	53	26	101	82.5
+7	University of Oxford	United Kingdom	13	28	15	19	26	82.34
+8	Yale University	USA	14	31	14	15	66	79.14
+9	Columbia University	USA	23	21	13	14	5	78.86
+10	University of California, Berkeley	USA	16	52	6	3	16	78.55
+11	University of Chicago	USA	15	26	34	28	101	73.82
+12	Cornell University	USA	21	42	22	16	10	73.69
+13	University of Pennsylvania	USA	31	16	9	8	9	73.64
+14	University of Tokyo	Japan	32	19	8	23	3	69.49
+15	Johns Hopkins University	USA	34	77	11	9	7	66.94
+16	Swiss Federal Institute of Technology in Zurich	Switzerland	26	66	40	44	34	66.69
+17	Kyoto University	Japan	42	38	25	43	23	65.76
+18	Weizmann Institute of Science	Israel	4	101	101	101	29	65.09
+19	University of California, Los Angeles	USA	62	59	3	6	13	64.05
+20	University of California, San Diego	USA	61	101	10	10	22	63.11
+21	Rockefeller University	USA	1	101	101	96	101	61.74
+22	Hebrew University of Jerusalem	Israel	24	93	101	101	28	60.76
+23	New York University	USA	89	75	42	34	62	60.55
+24	University of California, San Francisco	USA	101	101	19	13	33	59.7
+25	University of Wisconsin at Madison	USA	64	63	17	21	21	59.66
+26	University of Illinois at Urbana at Champaign	USA	82	101	35	39	44	59
+27	Duke University	USA	65	43	20	12	20	58.37
+28	Imperial College London	United Kingdom	84	73	26	29	41	57.53
+29	University of Texas Southwestern Medical Center	USA	19	101	101	84	101	56.43
+30	University of Texas at Austin	USA	101	78	41	40	57	56.18
+31	University College London	United Kingdom	35	101	27	33	86	55.21
+32	Osaka University	Japan	77	101	39	51	11	54.43
+33	Northwestern University	USA	101	32	24	20	35	54.4
+34	University of Michigan, Ann Arbor	USA	68	60	2	7	8	53.72
+35	University of Toronto	Canada	101	101	7	18	101	53.43
+36	University of North Carolina at Chapel Hill	USA	101	86	31	31	29	53.09
+37	Washington University in St. Louis	USA	74	62	32	30	14	52.9
+38	University of Utah	USA	92	101	74	67	12	52.64
+39	University of Washington - Seattle	USA	101	101	5	5	101	52.25
+40	University of California, Santa Barbara	USA	101	101	68	36	101	52.15
+41	McGill University	Canada	70	91	33	47	101	51.72
+42	Purdue University, West Lafayette	USA	95	70	61	58	19	51.66
+43	Carnegie Mellon University	USA	30	81	101	61	101	51.6
+44	University of Southern California	USA	101	101	46	32	23	51.38
+45	University of California, Davis	USA	79	101	23	25	32	51.06
+46	University of Colorado Boulder	USA	83	88	71	56	101	50.68
+47	University of California, Irvine	USA	101	101	59	52	65	50.64
+48	University of Paris-Sud	France	48	101	73	101	101	50.44
+49	University of Minnesota, Twin Cities	USA	101	101	18	17	84	50.3
+50	University of Arizona	USA	101	101	45	45	27	50.29
+51	Technionl Israel Institute of Technology	Israel	45	89	101	101	51	50.01
+52	Ohio State University, Columbus	USA	101	101	30	35	54	49.54
+53	University of Rochester	USA	41	54	82	54	62	49.51
+54	Ecol normale superieure - Paris	France	3	61	101	101	101	49.1
+55	University of Florida	USA	101	101	29	42	2	48.8
+56	Tel Aviv University	Israel	97	101	72	101	35	48.76
+57	Rice University	USA	28	53	101	53	101	48.76
+58	Dartmouth College	USA	27	13	101	101	92	48.5
+59	Vanderbilt University	USA	80	72	50	49	101	48.44
+60	University of Edinburgh	United Kingdom	71	101	64	70	101	48.43
+61	Ecole Polytechnique	France	47	3	101	101	101	48.33
+62	Boston University	USA	101	101	48	37	101	48.31
+63	Pierre-and-Marie-Curie University	France	54	101	36	78	101	48.26
+64	Pennsylvania State University, University Park	USA	101	94	38	27	99	48.15
+65	University of Geneva	Switzerland	46	101	101	101	101	47.94
+66	Brown University	USA	49	37	101	92	101	47.91
+67	University of British Columbia	Canada	101	101	28	48	101	47.74
+68	University of Maryland, College Park	USA	85	101	47	41	101	47.69
+69	Swiss Federal Institute of Technology in Lausanne	Switzerland	101	30	101	101	74	47.68
+70	Karolinska Institute	Sweden	51	101	84	95	101	47.61
+71	University of Pittsburgh - Pittsburgh Campus	USA	81	101	21	24	61	47.59
+72	Rutgers University-New Brunswick	USA	101	101	80	72	85	47.5
+73	Texas A&M University, College Station	USA	101	101	58	80	101	47.31
+74	Nagoya University	Japan	56	101	101	101	46	46.89
+75	Seoul National University	South Korea	101	34	44	69	4	46.74
+76	University of Manchester	United Kingdom	101	101	52	63	101	46.38
+77	Sapienza University of Rome	Italy	101	101	70	101	101	46.34
+78	Case Western Reserve University	USA	33	101	96	65	101	46.11
+79	Tohoku University	Japan	53	101	49	67	29	45.82
+80	Arizona State University	USA	101	101	101	77	49	45.7
+81	Emory University	USA	101	97	54	50	46	45.47
+82	Ruprecht Karl University of Heidelberg	Germany	87	101	86	100	101	45.33
+83	Ludwig Maximilian University of Munich	Germany	90	101	60	62	101	45.21
+84	University of Virginia	USA	101	50	76	57	86	45.2
+85	Leiden University	Netherlands	88	101	81	101	101	45.13
+86	Tufts University	USA	60	41	101	75	101	44.91
+87	Georgia Institute of Technology	USA	101	67	79	46	40	44.71
+88	University of Zurich	Switzerland	101	101	101	99	101	44.51
+89	University of Helsinki	Finland	96	101	62	54	101	44.44
+90	Technical University of Munich	Germany	52	101	91	94	101	44.32
+91	University of Oslo	Norway	101	101	101	101	101	44.26
+92	University of Queensland	Australia	101	101	67	89	46	44.18
+93	University of Copenhagen	Denmark	101	101	85	101	101	44.15
+94	University of Sydney	Australia	101	101	56	85	69	44.13
+95	Williams College	USA	18	15	101	101	101	43.89
+96	University of Texas MD Anderson Cancer Center	USA	101	101	95	66	100	43.88
+97	University of Nottingham	United Kingdom	101	101	101	101	92	43.79
+98	University of Bristol	United Kingdom	101	101	75	86	101	43.77
+99	Utrecht University	Netherlands	100	101	65	60	101	43.47
+100	Mines ParisTech	France	44	4	101	101	101	43.36
+101	Erasmus University Rotterdam	Netherlands	355	66	88	75	227	51.29
+102	Case Western Reserve University	USA	44	208	134	60	100	51.27
+103	University of Alberta	Canada	163	144	61	81	84	51.23
+104	University of Texas MD Anderson Cancer Center	USA	355	478	92	61	78	51.19
+105	Texas A&M University, College Station	USA	328	94	73	87	280	51.18
+106	Arizona State University	USA	355	478	141	69	34	51.14
+107	Yonsei University	South Korea	355	61	143	250	15	50.95
+108	Rice University	USA	54	313	252	45	61	50.94
+109	Technionl Israel Institute of Technology	Israel	41	221	180	187	100	50.89
+110	University of Helsinki	Finland	53	478	80	99	481	50.76
+111	University of Oslo	Norway	139	266	108	130	373	50.7
+112	Michigan State University	USA	112	214	85	45	128	50.69
+113	Indiana University - Bloomington	USA	211	38	166	176	204	50.53
+114	University of the Witwatersrand	South Africa	79	29	456	310	259	50.4
+115	University of Queensland	Australia	265	295	75	125	78	50.37
+116	Lund University	Sweden	132	478	81	48	737	50.34
+117	Leiden University	Netherlands	107	478	82	114	227	50.29
+118	Georgetown University	USA	146	37	295	310	159	50.28
+119	Aarhus University	Denmark	292	188	90	81	194	50.17
+120	University of Barcelona	Spain	355	207	63	81	259	50.17
+121	Baylor College of Medicine	USA	355	478	111	107	194	50.12
+122	University of Amsterdam	Netherlands	182	438	74	87	338	49.97
+123	University of Bristol	United Kingdom	177	242	87	99	338	49.97
+124	Uppsala University	Sweden	62	336	94	99	737	49.96
+125	University of Iowa	USA	223	184	103	87	115	49.95
+126	Stony Brook University	USA	170	478	161	69	100	49.92
+127	University of Groningen	Netherlands	293	265	71	107	338	49.89
+128	Korea Advanced Institute of Science and Technology (KAIST)	South Korea	355	85	186	363	11	49.88
+129	Radboud University Nijmegen	Netherlands	118	155	91	114	552	49.85
+130	Korea University	South Korea	355	58	182	220	34	49.84
+131	University of Soo Paulo	Brazil	302	70	62	114	737	49.82
+132	Nagoya University	Japan	67	356	119	134	68	49.82
+133	University of Colorado Denver	USA	355	478	140	150	78	49.79
+134	University of Montreal	Canada	309	460	77	87	426	49.79
+135	Albert Ludwig University of Freiburg	Germany	137	113	155	159	64	49.78
+136	Ghent University	Belgium	115	282	89	81	121	49.73
+137	University of Glasgow	United Kingdom	219	112	118	87	280	49.64
+138	University of Miami	USA	355	152	159	87	78	49.62
+139	Universite libre de Bruxelles	Belgium	165	167	221	81	115	49.6
+140	Paris Diderot University - Paris 7	France	117	478	107	159	426	49.53
+141	McMaster University	Canada	210	271	128	87	159	49.51
+142	University of Birmingham	United Kingdom	58	119	116	150	204	49.48
+143	University of Texas at Dallas	USA	355	244	219	61	307	49.47
+144	VU University Amsterdam	Netherlands	355	398	83	87	737	49.47
+145	Wake Forest University	USA	242	59	251	150	128	49.46
+146	University of Southampton	United Kingdom	315	81	115	107	259	49.42
+147	University of Nottingham	United Kingdom	128	148	113	150	159	49.41
+148	Nanyang Technological University	Singapore	355	478	110	220	26	49.35
+149	University of New South Wales	Australia	172	114	100	99	138	49.29
+150	Osaka City University	Japan	19	320	460	283	373	49.25
+151	University of Leeds	United Kingdom	84	93	132	134	280	49.23
+152	Western University (The University of Western Ontario)	Canada	355	49	154	250	426	49.18
+153	Kobe University	Japan	22	362	349	283	307	49.18
+154	University of Basel	Switzerland	77	222	168	134	426	49.17
+155	University of Hong Kong	Hong Kong	272	116	98	176	481	49.1
+156	Indiana University-Purdue University Indianapolis	USA	355	424	195	134	57	49.08
+157	Humboldt University of Berlin	Germany	275	478	117	159	373	49.03
+158	Free University of Berlin	Germany	94	478	122	250	481	49.02
+159	University of Tuebingen	Germany	64	478	158	159	227	48.99
+160	Australian National University	Australia	186	377	137	187	426	48.96
+161	Goethe University Frankfurt	Germany	105	291	175	200	280	48.93
+162	University of Houston	USA	355	40	315	493	89	48.91
+163	University of California, Santa Cruz	USA	160	478	239	114	227	48.89
+164	University of Alabama at Birmingham	USA	355	478	139	134	194	48.88
+165	Icahn School of Medicine at Mount Sinai	USA	355	478	169	176	159	48.85
+166	University of Calgary	Canada	355	89	147	114	737	48.84
+167	Mines ParisTech	France	249	31	980	609	737	48.81
+168	University of Gothenburg	Sweden	248	321	177	107	737	48.79
+169	University of Goettingen	Germany	39	174	172	310	373	48.77
+170	Monash University	Australia	277	134	96	250	159	48.71
+171	Southern Methodist University	USA	157	34	632	406	737	48.69
+172	Yeshiva University	USA	174	478	188	159	138	48.67
+173	University of South Florida - Tampa	USA	355	284	242	159	51	48.65
+174	Hanyang University	South Korea	355	69	292	406	28	48.63
+175	Oregon Health & Science University	USA	355	478	191	107	227	48.61
+176	University of Strasbourg	France	59	478	190	250	204	48.61
+177	University of Cincinnati	USA	305	132	145	159	204	48.6
+178	University of Sheffield	United Kingdom	131	257	124	114	227	48.55
+179	University of Hamburg	Germany	304	146	152	134	637	48.54
+180	George Washington University	USA	176	53	312	187	307	48.48
+181	University of Milan	Italy	162	467	109	200	481	48.48
+182	Iowa State University	USA	273	190	142	75	338	48.47
+183	University of Maryland, Baltimore	USA	355	478	125	134	280	48.4
+184	University of Padua	Italy	278	478	101	176	737	48.4
+185	University of New Mexico	USA	355	478	227	61	149	48.36
+186	Pohang University of Science and Technology	South Korea	355	478	279	220	25	48.35
+187	Stockholm University	Sweden	184	106	202	99	637	48.27
+188	Hokkaido University	Japan	260	378	138	283	61	48.18
+189	Fudan University	China	355	126	120	310	100	48.14
+190	University of Sussex	United Kingdom	138	218	368	176	481	48.12
+191	Universite catholique de Louvain	Belgium	355	269	179	134	181	48.08
+192	Wayne State University	USA	355	186	187	125	181	48.07
+193	University of Massachusetts Medical School	USA	355	478	288	187	170	48.06
+194	University of Lausanne	Switzerland	95	338	237	134	637	48.05
+195	Shanghai Jiao Tong University	China	325	149	102	250	138	48.02
+196	University of Missouri at Columbia	USA	243	96	220	220	149	48.02
+197	Technical University of Denmark	Denmark	339	478	240	200	48	47.98
+198	Complutense University of Madrid	Spain	86	55	213	406	204	47.97
+199	University of Cologne	Germany	355	109	215	187	426	47.97
+200	Trinity College, Dublin	Ireland	319	68	301	150	227	47.96
+201	University of Bern	Switzerland	166	478	167	99	426	47.93
+202	Chinese University of Hong Kong	Hong Kong	90	478	171	159	204	47.83
+203	University of Kansas	USA	216	83	209	159	194	47.82
+204	Sungkyunkwan University	South Korea	355	191	206	187	54	47.79
+205	University of Vienna	Austria	200	160	225	150	737	47.78
+206	Zhejiang University	China	355	293	86	493	94	47.76
+207	University of Georgia	USA	104	193	176	187	128	47.75
+208	University of Massachusetts Amherst	USA	199	118	194	159	373	47.74
+209	Cardiff University	United Kingdom	306	183	183	310	170	47.74
+210	University of Muenster	Germany	114	456	173	114	338	47.73
+211	University of Liverpool	United Kingdom	159	248	149	134	373	47.69
+212	University of Ottawa	Canada	355	287	185	159	481	47.69
+213	University of Erlangen-Nuremberg	Germany	222	478	170	134	307	47.69
+214	Queen Mary University of London	United Kingdom	133	348	231	220	227	47.67
+215	Karlsruhe Institute of Technology	Germany	343	170	193	150	109	47.67
+216	Louisiana State University - Baton Rouge	USA	256	179	162	159	481	47.67
+217	Nanjing University	China	331	447	148	363	57	47.67
+218	University of Illinois at Chicago	USA	355	416	131	220	170	47.63
+219	University of Bologna	Italy	342	319	130	187	552	47.59
+220	University of Manitoba	Canada	149	84	257	220	227	47.56
+221	Joseph Fourier University	France	181	478	136	220	159	47.54
+222	University of California, Riverside	USA	228	478	199	134	259	47.53
+223	Julius-Maximilian's University of Wuerzburg	Germany	100	407	216	200	481	47.5
+224	Aix-Marseille University	France	220	472	129	176	227	47.48
+225	University of Western Australia	Australia	145	397	165	283	373	47.47
+226	Laval University	Canada	285	296	212	220	109	47.47
+227	University of Tennessee, Knoxville	USA	300	117	192	134	481	47.45
+228	North Carolina State University	USA	245	194	151	159	181	47.43
+229	Newcastle University	United Kingdom	355	250	200	200	481	47.42
+230	Claude Bernard University Lyon 1	France	355	478	133	220	204	47.42
+231	University of Turin	Italy	311	471	214	220	552	47.4
+232	University of Kiel	Germany	180	396	236	220	280	47.39
+233	University of Connecticut	USA	282	402	160	200	204	47.35
+234	Tulane University	USA	298	92	363	283	194	47.34
+235	University of Oklahoma - Norman Campus	USA	355	124	238	176	307	47.33
+236	Brandeis University	USA	49	311	527	493	128	47.31
+237	Dresden University of Technology	Germany	355	478	218	176	109	47.26
+238	RWTH Aachen University	Germany	346	286	197	187	138	47.26
+239	University of Texas Health Science Center at San Antonio	USA	355	478	314	130	373	47.26
+240	Virginia Commonwealth University	USA	355	428	263	200	149	47.26
+241	University of Montpellier 2	France	355	358	174	200	280	47.25
+242	Dalian University of Technology	China	355	67	326	406	74	47.22
+243	Rensselaer Polytechnic Institute	USA	120	121	375	159	138	47.2
+244	Paul Sabatier University - Toulouse III	France	355	478	153	250	426	47.19
+245	Paris Descartes University	France	202	478	189	363	426	47.18
+246	National Cheng Kung University	Taiwan	355	60	157	800	307	47.16
+247	University of Delaware	USA	297	386	265	250	76	47.16
+248	Vrije Universiteit Brussel	Belgium	73	478	271	130	552	47.14
+249	Johannes Gutenberg University of Mainz	Germany	355	478	204	250	637	47.14
+250	Maastricht University	Netherlands	355	478	208	283	307	47.11
+251	University of Duesseldorf	Germany	168	478	298	159	637	47.05
+252	University of Dundee	United Kingdom	164	478	354	134	227	47.04
+253	University of Tsukuba	Japan	183	478	226	176	259	47
+254	Autonomous University of Barcelona	Spain	355	478	146	250	204	46.99
+255	Florida State University	USA	355	288	201	134	338	46.98
+256	University of Texas at San Antonio	USA	355	478	410	125	227	46.95
+257	London School of Hygiene & Tropical Medicine	United Kingdom	355	478	302	250	737	46.93
+258	Lehigh University	USA	355	44	594	609	481	46.91
+259	University of Kentucky	USA	317	270	184	250	338	46.9
+260	Thomas Jefferson University	USA	134	478	331	200	373	46.89
+261	Drexel University	USA	355	262	366	220	89	46.89
+262	Colorado State University - Fort Collins	USA	203	478	234	250	259	46.88
+263	University of Leicester	United Kingdom	355	478	254	220	373	46.87
+264	Durham University	United Kingdom	122	237	250	250	373	46.87
+265	Oregon State University	USA	175	268	247	176	338	46.82
+266	University of Florence	Italy	316	304	211	200	637	46.8
+267	University of Cape Town	South Africa	97	169	333	220	552	46.78
+268	University at Buffalo, The State University of New York	USA	355	418	203	200	204	46.78
+269	University College Dublin	Ireland	227	182	276	150	307	46.77
+270	University of Science and Technology of China	China	355	238	144	363	481	46.75
+271	Virginia Polytechnic Institute and State University	USA	270	185	196	200	227	46.72
+272	University of Naples Federico II	Italy	324	475	163	200	737	46.67
+273	University of Auckland	New Zealand	230	455	266	283	138	46.65
+274	University of Texas Health Science Center at Houston	USA	355	478	267	220	373	46.64
+275	Delft University of Technology	Netherlands	289	374	222	250	227	46.63
+276	University of Aberdeen	United Kingdom	347	223	282	250	481	46.63
+277	Queen's University	Canada	301	172	253	220	204	46.59
+278	University of Lisbon	Portugal	327	478	178	220	426	46.59
+279	Hiroshima University	Japan	355	478	294	283	109	46.59
+280	University of Waterloo	Canada	355	125	205	283	637	46.58
+281	Okayama University	Japan	355	226	332	250	94	46.57
+282	University of Ulm	Germany	355	478	285	310	737	46.57
+283	Chulalongkorn University	Thailand	355	51	580	406	737	46.55
+284	Dalhousie University	Canada	355	153	289	250	338	46.52
+285	Saint Petersburg State University	Russia	37	129	619	609	737	46.49
+286	Norwegian University of Science and Technology	Norway	231	163	274	220	373	46.49
+287	University of Reading	United Kingdom	241	78	393	220	481	46.49
+288	Wageningen University and Research Centre	Netherlands	267	478	217	363	552	46.48
+289	Umea University	Sweden	355	478	277	220	737	46.44
+290	University of Porto	Portugal	83	427	269	250	426	46.42
+291	Hong Kong University of Science and Technology	Hong Kong	355	279	256	363	128	46.42
+292	Sun Yat-sen University	China	355	328	198	310	138	46.42
+293	Medical College of Wisconsin	USA	355	478	338	220	737	46.42
+294	City College of New York	USA	35	236	677	406	373	46.41
+295	Hannover Medical School	Germany	355	478	324	363	280	46.41
+296	Washington State University, Pullman	USA	355	267	293	310	170	46.4
+297	Technical University of Berlin	Germany	80	276	353	406	115	46.39
+298	University of South Carolina - Columbia	USA	355	440	262	130	737	46.37
+299	Leipzig University	Germany	308	478	287	800	307	46.36
+300	University of Stuttgart	Germany	78	175	379	363	280	46.34
+301	University of Valencia	Spain	355	464	210	220	552	46.34
+302	Linkoeping University	Sweden	355	177	290	310	737	46.32
+303	University of Duisburg-Essen	Germany	355	453	284	406	426	46.31
+304	Ruhr University Bochum	Germany	355	283	235	406	637	46.31
+305	University of Bergen	Norway	355	478	249	283	737	46.31
+306	London School of Economics	United Kingdom	70	139	520	310	737	46.3
+307	Wesleyan University	USA	130	54	986	609	737	46.3
+308	University of Pisa	Italy	268	465	229	200	426	46.3
+309	Autonomous University of Madrid	Spain	355	449	228	310	426	46.29
+310	Medical University of Vienna	Austria	355	478	275	283	426	46.29
+311	Stellenbosch University	South Africa	355	64	545	310	259	46.26
+312	Medical University of South Carolina	USA	355	478	322	310	552	46.25
+313	Charles University in Prague	Czech Republic	337	478	243	220	637	46.23
+314	Kyungpook National University	South Korea	355	446	358	283	68	46.23
+315	University of Science, Malaysia	Malaysia	355	478	700	609	42	46.23
+316	University of LiĂ¨ge	Belgium	135	478	313	310	227	46.21
+317	University of Hull	United Kingdom	287	253	612	493	552	46.21
+318	Northeastern University	USA	295	171	383	250	115	46.2
+319	Kansas State University	USA	116	165	348	220	259	46.2
+320	University of Vermont	USA	178	215	364	406	373	46.2
+321	Rush University	USA	355	478	424	150	737	46.18
+322	University of Louisville	USA	355	389	335	406	138	46.15
+323	University of St Andrews	United Kingdom	125	478	317	363	280	46.15
+324	University of Warwick	United Kingdom	198	394	224	200	259	46.13
+325	University of Rome Tor Vergata	Italy	355	478	260	283	737	46.13
+326	University of Innsbruck	Austria	190	415	413	310	373	46.12
+327	Darmstadt University of Technology	Germany	55	258	374	493	227	46.11
+328	Indian Institute of Technology Delhi	India	355	57	644	800	426	46.1
+329	Federal University of Rio de Janeiro	Brazil	261	120	304	493	181	46.08
+330	University of Antwerp	Belgium	355	478	258	220	373	46.08
+331	National and Kapodistrian University of Athens	Greece	355	246	248	310	737	46.06
+332	Boston College	USA	355	95	548	200	338	46.06
+333	Vita-Salute San Raffaele University	Italy	355	478	484	310	737	46.06
+334	Gwangju Institute of Science and Technology	South Korea	355	478	528	406	57	46.02
+335	University of Nebraska at Lincoln	USA	154	256	272	250	426	46.02
+336	University of York	United Kingdom	355	478	272	159	481	45.99
+337	National Autonomous University of Mexico	Mexico	299	478	181	406	481	45.99
+338	University of Regensburg	Germany	355	382	303	310	737	45.98
+339	Yokohama National University	Japan	52	135	841	609	338	45.97
+340	University of Adelaide	Australia	201	400	244	283	737	45.97
+341	University of Genoa	Italy	355	478	291	250	373	45.95
+342	Queen's University Belfast	United Kingdom	169	399	308	283	737	45.95
+343	University of Marburg	Germany	290	478	328	283	259	45.92
+344	University of Pavia	Italy	276	385	329	283	637	45.92
+345	St George's, University of London	United Kingdom	355	478	525	310	552	45.91
+346	University of Oregon	USA	334	478	370	200	637	45.89
+347	University of Navarra	Spain	355	72	582	800	426	45.88
+348	San Diego State University	USA	240	187	480	200	481	45.88
+349	Nankai University	China	318	168	311	493	280	45.87
+350	University of East Anglia	United Kingdom	187	478	356	187	637	45.87
+351	University of Nebraska Medical Center	USA	355	478	469	363	128	45.83
+352	University of Southern Denmark	Denmark	355	478	380	310	280	45.83
+353	Eindhoven University of Technology	Netherlands	355	315	296	310	307	45.82
+354	Xiamen University	China	355	100	371	609	307	45.8
+355	University of Otago	New Zealand	355	372	318	220	637	45.8
+356	University of Santiago de Compostela	Spain	355	478	373	406	100	45.79
+357	University of Exeter	United Kingdom	250	371	309	406	481	45.79
+358	University of Jena	Germany	355	478	278	363	426	45.79
+359	University of Perugia	Italy	355	478	367	406	637	45.78
+360	Justus Liebig University Giessen	Germany	355	478	336	363	204	45.78
+361	College of William and Mary	USA	355	82	639	310	637	45.77
+362	Ben-Gurion University of the Negev	Israel	355	478	280	406	138	45.76
+363	Saint Louis University	USA	355	342	468	493	227	45.75
+364	Colorado School of Mines	USA	355	76	653	310	637	45.74
+365	Oklahoma State University at Stillwater	USA	221	111	427	310	307	45.74
+366	University of Guelph	Canada	355	478	319	125	373	45.74
+367	University of Trieste	Italy	355	478	378	283	426	45.73
+368	University of Verona	Italy	355	478	509	220	737	45.71
+369	University at Albany, SUNY	USA	161	478	402	187	338	45.7
+370	Tongji University	China	152	102	401	609	204	45.7
+371	Eoetvoes Lorand University	Hungary	87	478	539	250	637	45.69
+372	University of Alabama - Tuscaloosa	USA	312	137	513	283	338	45.69
+373	University of Eastern Finland	Finland	355	478	377	310	737	45.69
+374	Ewha Womans University	South Korea	355	478	474	609	89	45.67
+375	City University of Hong Kong	Hong Kong	355	478	255	493	259	45.67
+376	Tokyo Medical and Dental University	Japan	355	478	442	609	307	45.67
+377	University of Victoria	Canada	355	478	320	363	737	45.66
+378	University of Buenos Aires	Argentina	192	477	268	363	737	45.66
+379	University of Texas Medical Branch at Galveston	USA	355	478	365	363	227	45.66
+380	Kyung Hee University	South Korea	239	445	398	609	84	45.66
+381	Hong Kong Polytechnic University	Hong Kong	355	189	261	406	481	45.65
+382	Saarland University	Germany	355	370	390	493	307	45.65
+383	Scuola Normale Superiore di Pisa	Italy	229	478	530	363	737	45.63
+384	University of Seville	Spain	355	478	339	493	89	45.63
+385	Beijing Normal University	China	51	478	408	406	737	45.61
+386	Chiba University	Japan	355	478	342	406	204	45.6
+387	University of Ferrara	Italy	355	478	399	310	552	45.6
+388	University of Bari Aldo Moro	Italy	355	478	345	493	338	45.6
+389	Polytechnic University of Milan	Italy	101	203	360	609	280	45.59
+390	Temple University	USA	262	478	341	493	194	45.59
+391	University of Turku	Finland	355	478	320	609	481	45.58
+392	Aalto University	Finland	355	251	344	609	138	45.58
+393	Simon Fraser University	Canada	355	478	286	406	373	45.58
+394	Tianjin University	China	355	87	406	800	426	45.57
+395	Chalmers University of Technology	Sweden	349	332	359	493	737	45.57
+396	Middle East Technical University	Turkey	355	79	529	493	737	45.57
+397	Cranfield University	United Kingdom	355	71	728	800	737	45.56
+398	York University	Canada	355	164	397	250	737	45.55
+399	Xi'an Jiaotong University	China	355	127	307	800	181	45.55
+400	Chonnam National University	South Korea	355	478	411	363	115	45.55
+401	University of Central Florida	USA	355	468	388	493	149	45.55
+402	University of Lorraine	France	213	301	300	493	181	45.55
+403	University of Bordeaux II	France	355	478	440	363	426	45.54
+404	University of New Hampshire	USA	355	346	511	200	637	45.53
+405	Versailles Saint-Quentin-en-Yvelines University	France	355	478	452	283	637	45.53
+406	Chonbuk National University	South Korea	355	478	512	800	78	45.51
+407	Kumamoto University	Japan	279	325	473	493	170	45.51
+408	Huazhong University of Science and Technology	China	355	232	259	609	181	45.5
+409	Brunel University	United Kingdom	355	147	486	609	481	45.5
+410	Polytechnic University of Catalonia	Spain	355	451	386	406	109	45.49
+411	National Chiao Tung University	Taiwan	355	220	232	609	737	45.49
+412	Southeast University	China	158	409	412	609	121	45.49
+413	Tokyo University of Science	Japan	355	478	504	406	128	45.48
+414	Catholic University of the Sacred Heart	Italy	355	478	422	609	737	45.47
+415	Brigham Young University	USA	288	444	495	283	149	45.47
+416	Technical University of Madrid	Spain	206	200	478	609	109	45.47
+417	Nagasaki University	Japan	274	128	567	493	307	45.46
+418	National Tsing Hua University	Taiwan	244	478	230	493	552	45.46
+419	University of Warsaw	Poland	119	478	400	363	637	45.45
+420	King Saud University	Saudi Arabia	355	133	611	800	115	45.45
+421	University of Bath	United Kingdom	355	352	387	310	552	45.44
+422	Concordia University	Canada	355	110	540	493	552	45.44
+423	Georgia Regents University	USA	355	478	579	310	737	45.43
+424	Niigata University	Japan	355	217	503	363	204	45.43
+425	University of Oulu	Finland	253	354	426	493	373	45.43
+426	Pompeu Fabra University	Spain	355	478	409	609	481	45.43
+427	Vienna University of Technology	Austria	351	413	381	406	159	45.43
+428	Sogang University	South Korea	355	478	781	800	68	45.43
+429	Gyeongsang National University	South Korea	355	478	626	800	84	45.43
+430	University of Tampere	Finland	355	235	554	493	637	45.41
+431	University of Milan - Bicocca	Italy	355	478	404	406	280	45.41
+432	University of Bordeaux I	France	355	478	327	406	426	45.41
+433	Swedish University of Agricultural Sciences	Sweden	355	478	376	363	737	45.4
+434	George Mason University	USA	355	478	449	283	637	45.4
+435	Jilin University	China	224	469	270	493	373	45.4
+436	University of Delhi	India	263	88	701	800	637	45.4
+437	University of Campinas	Brazil	355	478	297	406	227	45.39
+438	Wuhan University	China	355	228	310	609	481	45.39
+439	West Virginia University	USA	314	180	441	406	637	45.39
+440	Pusan National University	South Korea	355	422	395	363	128	45.38
+441	University of Mississippi - Oxford Campus	USA	355	478	384	220	552	45.38
+442	University of Arkansas for Medical Sciences	USA	355	478	488	609	280	45.37
+443	Miami University	USA	355	104	712	406	737	45.37
+444	University of Tokushima	Japan	109	478	603	493	149	45.36
+445	University of Twente	Netherlands	355	478	343	363	338	45.36
+446	Loyola University Chicago	USA	355	350	538	609	737	45.36
+447	Ajou University	South Korea	355	343	646	609	94	45.35
+448	Syracuse University	USA	129	249	459	310	338	45.34
+449	Lancaster University	United Kingdom	355	339	372	250	637	45.33
+450	Pontifical Catholic University of Chile	Chile	330	263	450	493	426	45.33
+451	University of Chile	Chile	232	278	416	493	552	45.29
+452	Innsbruck Medical University	Austria	355	478	482	800	637	45.29
+453	University of Granada	Spain	355	478	316	310	194	45.29
+454	Kanazawa University	Japan	355	327	455	493	373	45.29
+455	University of Parma	Italy	355	431	421	310	637	45.28
+456	University of Siena	Italy	355	478	407	310	737	45.27
+457	Shandong University	China	355	466	245	493	481	45.27
+458	Technical University of Dortmund	Germany	355	478	454	406	170	45.26
+459	University of KwaZulu-Natal	South Africa	355	142	584	310	737	45.26
+460	University of Nevada, Reno	USA	355	347	516	250	637	45.26
+461	Yokohama City University	Japan	355	196	650	800	338	45.26
+462	Ecole normale superieure de Lyon	France	355	478	489	493	737	45.25
+463	University College Cork	Ireland	355	359	423	406	227	45.25
+464	Ohio University	USA	196	176	568	493	280	45.25
+465	Central South University	China	355	162	330	609	373	45.24
+466	University of Modena and Reggio Emilia	Italy	355	478	435	310	637	45.23
+467	New Mexico State University	USA	355	369	677	200	737	45.23
+468	University of Konstanz	Germany	355	478	475	493	481	45.22
+469	University of Hawaii at Manoa	USA	355	379	451	363	373	45.22
+470	University of Nebraska Omaha	USA	355	349	643	406	737	45.22
+471	Shinshu University	Japan	355	333	564	283	204	45.22
+472	University of Strathclyde	United Kingdom	355	245	382	406	426	45.22
+473	Baylor University	USA	355	351	578	220	637	45.21
+474	Polytechnic University of Valencia	Spain	355	478	361	609	204	45.21
+475	Harbin Institute of Technology	China	355	289	283	609	338	45.21
+476	University of Rennes 1	France	355	478	351	609	307	45.2
+477	University of Arkansas - Fayetteville	USA	189	260	506	310	373	45.2
+478	Aristotle University of Thessaloniki	Greece	355	478	334	493	637	45.2
+479	Jagiellonian University	Poland	355	478	396	609	552	45.19
+480	Texas Tech University (TTU)	USA	355	277	392	250	552	45.19
+481	University of Rostock	Germany	352	478	433	800	338	45.19
+482	University of Akron	USA	355	421	637	609	121	45.18
+483	University of Saskatchewan	Canada	320	380	337	310	373	45.18
+484	Juntendo University	Japan	355	478	645	406	737	45.18
+485	University of Wyoming	USA	355	224	531	363	426	45.18
+486	Macquarie University	Australia	355	452	416	283	552	45.18
+487	University of Canterbury	New Zealand	173	154	561	493	737	45.17
+488	University of Denver	USA	283	141	906	493	552	45.16
+489	Illinois Institute of Technology	USA	251	123	767	800	737	45.15
+490	Creighton University	USA	355	478	792	250	637	45.15
+491	Bielefeld University	Germany	355	478	487	493	737	45.15
+492	University of Malaya	Malaysia	355	115	670	493	426	45.15
+493	University of Ulsan	South Korea	355	247	437	609	637	45.14
+494	City University London	United Kingdom	355	103	808	800	637	45.14
+495	Grenoble Institute of Technology	France	355	478	340	609	307	45.14
+496	Federal University of Minas Gerais	Brazil	355	462	430	493	170	45.14
+497	University of Hanover	Germany	355	392	431	406	259	45.14
+498	South China University of Technology	China	355	292	403	493	227	45.12
+499	University of Surrey	United Kingdom	195	234	414	406	338	45.12
+500	Otto-von-Guericke University Magdeburg	Germany	355	478	483	493	259	45.11
+501	Indian Institute of Science	India	355	478	305	609	280	45.11
+502	Tokyo Metropolitan University	Japan	355	322	550	310	637	45.11
+503	Bar-Ilan University	Israel	266	408	415	609	259	45.11
+504	Mississippi State University	USA	141	157	580	609	481	45.11
+505	University of Maryland, Baltimore County	USA	355	478	554	363	373	45.1
+506	University of Wollongong	Australia	355	274	445	609	338	45.1
+507	Flinders University	Australia	82	478	551	609	637	45.1
+508	Martin Luther University of Halle-Wittenberg	Germany	345	478	385	800	737	45.1
+509	Graduate University for Advanced Studies	Japan	355	478	607	493	737	45.09
+510	Clemson University	USA	355	478	424	493	737	45.09
+511	University of Brescia	Italy	355	478	576	609	737	45.07
+512	Georgia State University	USA	355	434	465	363	426	45.07
+513	Dongguk University	South Korea	355	395	954	800	89	45.07
+514	University of Fribourg	Switzerland	208	209	727	406	552	45.05
+515	Sichuan University	China	355	478	306	800	373	45.05
+516	University of Iceland	Iceland	355	478	629	310	737	45.05
+517	University of Sherbrooke	Canada	355	478	446	406	637	45.05
+518	University of Graz	Austria	338	429	526	406	481	45.04
+519	University of Malaga	Spain	355	478	428	609	121	45.04
+520	University of Zaragoza	Spain	354	441	350	493	338	45.04
+521	New York Medical College	USA	355	478	726	493	481	45.04
+522	SUNY Downstate Medical Center	USA	355	478	736	609	737	45.03
+523	Ecole Centrale Paris	France	355	108	995	800	637	45.03
+524	Utah State University	USA	156	419	553	363	307	45.03
+525	University of Ljubljana	Slovenia	355	478	346	310	737	45.02
+526	University of Montpellier 1	France	355	478	429	493	737	45.02
+527	Victoria University of Wellington	New Zealand	296	161	630	609	637	45.01
+528	East China University of Science and Technology	China	355	478	444	609	204	45.01
+529	Konkuk University	South Korea	355	403	564	800	128	45.01
+530	University of Potsdam	Germany	355	478	491	609	637	45.01
+531	University of the Basque Country	Spain	355	478	325	493	426	45.01
+532	University of Nice Sophia Antipolis	France	252	478	467	609	373	45.01
+533	University of Udine	Italy	355	478	583	609	552	45.01
+534	National Yang-Ming University	Taiwan	355	478	355	406	737	45.01
+535	Indian Institute of Technology Bombay	India	355	478	522	609	121	45
+536	University of Bayreuth	Germany	355	478	442	310	552	44.99
+537	University of Wisconsin at Milwaukee	USA	218	273	537	406	737	44.99
+538	University of Dayton	USA	335	140	991	609	552	44.99
+539	Nihon University	Japan	307	474	573	800	149	44.98
+540	Montana State University - Bozeman	USA	355	344	557	363	637	44.98
+541	Royal Holloway, University of London	United Kingdom	355	478	560	406	373	44.98
+542	Tokyo Women's Medical University	Japan	355	478	763	493	259	44.98
+543	Panjab University	India	332	212	708	363	737	44.97
+544	Tampere University of Technology	Finland	355	136	819	800	737	44.97
+545	University of Coimbra	Portugal	348	478	420	609	481	44.97
+546	University of Newcastle	Australia	355	478	434	609	637	44.97
+547	Nara Institute of Science and Technology	Japan	355	478	715	493	426	44.96
+548	Auburn University	USA	355	261	463	310	373	44.96
+549	University of Bremen	Germany	355	478	439	363	552	44.96
+550	Mahidol University	Thailand	355	478	479	406	737	44.96
+551	University of Crete	Greece	355	478	481	406	737	44.96
+552	Bangor University	United Kingdom	246	360	624	609	373	44.95
+553	University of Aveiro	Portugal	355	478	419	609	170	44.95
+554	University of Palermo	Italy	355	478	447	800	552	44.94
+555	Nagoya City University	Japan	355	306	764	310	307	44.94
+556	University of Tartu	Estonia	353	478	600	406	259	44.94
+557	University of Savoy	France	355	478	505	406	552	44.94
+558	University of Tromso - The Arctic University of Norway	Norway	355	478	493	310	737	44.94
+559	University of Missouri at Kansas City	USA	286	357	638	800	552	44.93
+560	Beihang University	China	355	254	523	609	170	44.93
+561	American University of Beirut	Lebanon	103	205	892	800	737	44.93
+562	University of Nantes	France	355	478	492	310	426	44.93
+563	University of Essex	United Kingdom	106	335	710	406	737	44.92
+564	University of Zagreb	Croatia	355	478	572	406	426	44.92
+565	National Central University	Taiwan	204	478	369	609	637	44.92
+566	University Lille 1: Sciences and Technologies	France	355	478	394	363	481	44.92
+567	University of Catania	Italy	355	478	436	493	737	44.91
+568	National Polytechnic Institute of Toulouse	France	355	201	499	800	737	44.91
+569	Indian Institute of Technology Kanpur	India	153	308	536	609	227	44.91
+570	Kagoshima University	Japan	355	211	694	493	373	44.9
+571	Lanzhou University	China	355	478	389	493	481	44.9
+572	James Cook University	Australia	355	478	510	363	552	44.9
+573	Shizuoka University	Japan	355	478	586	406	149	44.89
+574	Indian Institute of Technology Kharagpur	India	355	201	501	800	426	44.89
+575	Second University of Naples	Italy	355	478	544	609	737	44.89
+576	Indian Institute of Technology Madras	India	355	206	532	406	280	44.89
+577	Plymouth University	United Kingdom	355	437	534	493	426	44.88
+578	International School for Advanced Studies	Italy	355	478	595	609	737	44.87
+579	Polytechnic University of Turin	Italy	355	478	464	800	181	44.85
+580	University of Oviedo	Spain	355	478	437	493	426	44.85
+581	Ehime University	Japan	355	324	585	493	338	44.85
+582	University of Ioannina	Greece	355	478	569	609	737	44.85
+583	University of Cagliari	Italy	355	478	514	800	552	44.85
+584	Tottori University	Japan	355	199	846	493	373	44.85
+585	Federal University of Rio Grande do Sul	Brazil	355	478	418	406	552	44.85
+586	Kent State University	USA	355	478	616	363	481	44.85
+587	University of Los Andes (Colombia)	Colombia	355	150	902	406	637	44.85
+588	Hunan University	China	355	294	500	800	737	44.84
+589	Tokai University	Japan	355	478	697	493	481	44.84
+590	LSU Health Sciences Center New Orleans	USA	355	478	796	609	552	44.84
+591	Southern Illinois University Carbondale	USA	191	478	571	800	552	44.83
+592	Tata Institute of Fundamental Research	India	355	478	458	310	737	44.83
+593	Aalborg University	Denmark	355	384	606	363	426	44.83
+594	Osaka Prefecture University	Japan	355	316	646	609	204	44.83
+595	Chang Gung University	Taiwan	355	478	357	800	737	44.82
+596	Northern Illinois University	USA	355	259	671	363	481	44.82
+597	University of Trento	Italy	355	478	490	609	737	44.82
+598	Semmelweis University	Hungary	355	478	668	493	552	44.82
+599	University of Science and Technology Beijing	China	355	166	592	493	373	44.82
+600	National University of Ireland, Galway	Ireland	355	478	593	609	307	44.82
+601	Dankook University	South Korea	355	478	896	609	121	44.82
+602	Istanbul University	Turkey	255	337	681	609	737	44.81
+603	Tokyo University of Agriculture and Technology	Japan	355	478	574	609	227	44.81
+604	University of Montana - Missoula	USA	341	478	699	493	552	44.81
+605	Queensland University of Technology	Australia	355	478	457	493	552	44.81
+606	Binghamton University	USA	355	229	731	800	737	44.8
+607	Universite de Namur	Belgium	143	312	830	609	637	44.8
+608	University of Tasmania	Australia	355	478	461	609	737	44.8
+609	University of Pretoria	South Africa	355	233	597	493	481	44.8
+610	Central China Normal University	China	355	478	653	493	737	44.79
+611	Indian Institute of Technology Roorkee	India	355	307	845	609	737	44.79
+612	Curtin University	Australia	355	478	462	406	426	44.79
+613	Deakin University	Australia	355	459	556	609	637	44.79
+614	Tilburg University	Netherlands	355	227	605	609	737	44.78
+615	Inha University	South Korea	355	387	543	609	481	44.78
+616	University of New Orleans	USA	355	478	907	493	737	44.78
+617	Paris-Est CrĂ©teil Val-de-Marne University	France	355	435	710	800	737	44.77
+618	University of L'Aquila	Italy	355	478	617	800	737	44.77
+619	Chungnam National University	South Korea	355	478	472	493	307	44.77
+620	University of Salamanca	Spain	355	423	558	363	737	44.77
+621	University of Alaska Fairbanks	USA	355	478	608	609	737	44.77
+622	University of Poitiers	France	236	478	615	609	481	44.77
+623	Albany Medical College	USA	142	478	993	609	737	44.76
+624	Birkbeck, University of London	United Kingdom	281	478	718	493	737	44.76
+625	Griffith University	Australia	355	478	470	493	373	44.76
+626	Federal University of Soo Paulo	Brazil	355	478	515	406	737	44.76
+627	Carleton University	Canada	355	478	496	310	737	44.75
+628	Massey University	New Zealand	355	448	552	609	637	44.75
+629	Catholic University of Korea	South Korea	355	478	598	800	227	44.74
+630	Open University (UK)	United Kingdom	355	478	613	800	637	44.74
+631	University of Patras	Greece	355	478	485	406	552	44.74
+632	Universidade Nova de Lisboa	Portugal	355	478	506	609	552	44.74
+633	Texas A&M Health Science Center	USA	355	478	664	493	426	44.74
+634	Braunschweig University of Technology	Germany	207	478	541	609	481	44.74
+635	National Chung Hsing University	Taiwan	355	364	405	609	737	44.74
+636	La Trobe University	Australia	355	439	559	800	737	44.73
+637	Missouri University of Science and Technology	USA	355	204	696	493	737	44.73
+638	University of Idaho	USA	355	478	640	406	373	44.73
+639	Louisiana Tech University	USA	355	213	931	406	737	44.73
+640	University of Portsmouth	United Kingdom	355	478	759	310	637	44.73
+641	University of La Laguna	Spain	355	478	521	800	552	44.73
+642	Florida International University	USA	355	478	502	363	637	44.73
+643	Medical University of Graz	Austria	355	478	622	800	481	44.72
+644	Howard University	USA	269	478	943	406	204	44.72
+645	University of Hertfordshire	United Kingdom	355	478	792	609	637	44.72
+646	State University of New York Upstate Medical University	USA	355	478	748	406	552	44.72
+647	Royal College of Surgeons in Ireland	Ireland	355	478	813	310	552	44.72
+648	National Technical University of Athens	Greece	167	478	498	493	737	44.72
+649	University of Windsor	Canada	355	239	758	800	481	44.72
+650	Rovira i Virgili University	Spain	355	478	575	493	552	44.71
+651	University of Burgundy	France	214	478	524	800	737	44.71
+652	Gunma University	Japan	355	478	599	493	338	44.71
+653	AGH University of Science and Technology	Poland	257	197	722	609	552	44.71
+654	Gifu University	Japan	355	478	648	493	426	44.71
+655	Hacettepe University	Turkey	355	478	636	406	737	44.71
+656	Orebro University	Sweden	355	478	820	406	737	44.7
+657	Memorial University of Newfoundland	Canada	355	478	563	800	737	44.7
+658	Kindai University	Japan	355	478	655	493	373	44.7
+659	University of Rhode Island	USA	355	353	649	406	737	44.7
+660	University of Alicante	Spain	355	478	657	800	227	44.7
+661	New Jersey Institute of Technology	USA	235	326	745	800	426	44.69
+662	Lille 2 University of Health and Law	France	355	478	854	800	637	44.69
+663	Keele University	United Kingdom	355	478	635	406	737	44.69
+664	University of Jyvaskyla	Finland	355	478	471	493	737	44.69
+665	Rochester Institute of Technology	USA	355	366	936	310	373	44.69
+666	Sapporo Medical University	Japan	355	478	929	609	280	44.69
+667	Banaras Hindu University	India	237	285	746	363	737	44.69
+668	King Abdullah University of Science and Technology	Saudi Arabia	355	478	799	800	159	44.69
+669	Northeast Normal University	China	355	478	716	609	737	44.69
+670	Portland State University	USA	355	272	784	800	481	44.68
+671	University of Quebec at Montreal	Canada	355	457	534	406	737	44.68
+672	East China Normal University	China	355	431	477	800	481	44.68
+673	University of Debrecen	Hungary	355	478	660	406	552	44.68
+674	Loma Linda University	USA	355	478	820	609	737	44.68
+675	Old Dominion University	USA	355	478	717	406	426	44.68
+676	University of Insubria	Italy	355	478	685	609	737	44.67
+677	University of Nevada, Las Vegas	USA	355	412	619	800	737	44.67
+678	Hong Kong Baptist University	Hong Kong	355	478	591	609	637	44.67
+679	University of Minho	Portugal	355	478	590	363	338	44.67
+680	University of Messina	Italy	355	478	577	800	737	44.67
+681	University of Texas at Arlington	USA	355	478	494	493	637	44.67
+682	University Francois Rabelais, Tours	France	188	478	684	609	481	44.67
+683	UNESP, Soo Paulo State University	Brazil	355	478	352	493	552	44.67
+684	Toho University	Japan	355	478	800	800	552	44.67
+685	Beijing University of Chemical Technology	China	355	405	619	800	259	44.67
+686	Rutgers, The State University of New Jersey - Newark	USA	355	478	855	609	737	44.66
+687	Johannes Kepler University of Linz	Austria	355	373	738	493	481	44.66
+688	Warsaw University of Technology	Poland	333	478	695	310	737	44.66
+689	University of Paris 13	France	355	478	672	609	737	44.66
+690	University of Toyama	Japan	355	323	659	609	737	44.66
+691	University of Toledo	USA	355	478	625	800	373	44.66
+692	University of Vigo	Spain	355	478	570	406	481	44.66
+693	University of Kent	United Kingdom	355	375	656	609	737	44.65
+694	Jichi Medical University	Japan	355	478	894	609	552	44.65
+695	Roma Tre University	Italy	355	478	632	406	637	44.65
+696	Chung Yuan Christian University	Taiwan	225	230	754	800	737	44.65
+697	University of Haifa	Israel	355	363	587	609	552	44.65
+698	Ă…bo Akademi University	Finland	355	478	724	609	552	44.65
+699	Swansea University	United Kingdom	355	355	533	609	552	44.65
+700	China Agricultural University	China	355	478	432	609	552	44.64
+701	Marche Polytechnic University	Italy	355	478	666	800	737	44.64
+702	University of Maine, Orono	USA	329	478	756	406	373	44.64
+703	Heriot-Watt University	United Kingdom	355	381	602	609	552	44.64
+704	Marquette University	USA	355	216	909	800	737	44.64
+705	Loughborough University	United Kingdom	355	478	497	609	637	44.63
+706	Kaiserslautern University of Technology	Germany	355	478	652	800	737	44.63
+707	Aston University	United Kingdom	355	331	839	493	338	44.63
+708	University of Girona	Spain	355	478	682	609	637	44.63
+709	Hasselt University	Belgium	355	309	816	609	737	44.63
+710	Nanjing University of Science and Technology	China	355	243	852	406	637	44.63
+711	University of Natural Resources and Life Sciences, Vienna	Austria	355	478	746	800	552	44.63
+712	University of Szeged	Hungary	355	478	651	800	552	44.63
+713	Soochow University (Suzhou)	China	355	478	466	800	737	44.63
+714	University of the Balearic Islands	Spain	355	478	634	406	552	44.63
+715	Fuzhou University	China	355	420	786	609	259	44.63
+716	University of Memphis	USA	355	390	782	609	338	44.62
+717	San Francisco State University	USA	258	478	876	800	737	44.62
+718	East Carolina University	USA	355	411	686	800	481	44.62
+719	University of Augsburg	Germany	355	478	780	609	737	44.62
+720	University of Missouri at St. Louis	USA	355	361	883	406	552	44.62
+721	Kyoto Prefectural University of Medicine	Japan	355	478	823	609	737	44.62
+722	Shanghai University	China	355	478	508	609	637	44.62
+723	University of South Australia	Australia	355	280	663	800	426	44.62
+724	Liverpool John Moores University	United Kingdom	355	478	744	609	737	44.61
+725	Graz University of Technology	Austria	355	478	686	493	552	44.61
+726	Kitasato University	Japan	355	478	706	800	737	44.61
+727	University of North Carolina at Charlotte	USA	355	264	749	493	637	44.61
+728	G. d'Annunzio University, Chieti-Pescara	Italy	355	478	733	609	737	44.61
+729	University of Cantabria	Spain	355	478	596	406	481	44.61
+730	Miguel Hernandez University of Elche	Spain	355	478	769	800	307	44.61
+731	Donghua University	China	355	478	833	250	481	44.61
+732	Comenius University in Bratislava	Slovak Republic	355	478	709	493	737	44.6
+733	University of Alabama in Huntsville	USA	355	478	886	800	737	44.6
+734	Mie University	Japan	355	478	805	609	338	44.6
+735	University of Stirling	United Kingdom	355	334	804	609	737	44.6
+736	Hunter College	USA	247	383	825	800	737	44.6
+737	Swinburne University of Technology	Australia	355	478	658	493	737	44.6
+738	University of Ulster	United Kingdom	355	478	940	493	259	44.6
+739	University of Evry Val d'Essonne	France	355	478	998	609	737	44.59
+740	University of Salerno	Italy	355	478	518	609	552	44.59
+741	National University of La Plata	Argentina	355	476	546	406	737	44.59
+742	Masaryk University	Czech Republic	355	478	667	800	737	44.59
+743	Yamaguchi University	Japan	355	478	719	609	307	44.59
+744	University of Yamanashi	Japan	355	478	858	406	481	44.59
+745	Showa University	Japan	355	478	945	609	737	44.59
+746	North Dakota State University - Main Campus	USA	155	478	692	800	737	44.59
+747	University of North Texas, Denton	USA	355	478	683	609	426	44.59
+748	University of Mississippi Medical Center	USA	355	478	791	493	737	44.58
+749	University of Tehran	Iran	171	478	519	800	737	44.58
+750	Paul Valery University, Montpellier III	France	355	478	829	493	737	44.58
+751	Wuhan University of Technology	China	355	478	794	493	737	44.58
+752	University of Hyogo	Japan	355	478	765	493	552	44.58
+753	The Catholic University of America	USA	355	314	949	406	552	44.58
+754	University of Neuchatel	Switzerland	340	478	831	800	637	44.58
+755	National Polytechnic Institute	Mexico	322	478	549	406	307	44.58
+756	Jikei University School of Medicine	Japan	355	478	975	609	637	44.58
+757	University of Valladolid	Spain	355	430	675	800	280	44.57
+758	University of Calabria	Italy	355	478	566	406	737	44.57
+759	University of Luebeck	Germany	355	478	910	800	737	44.57
+760	Kurume University	Japan	355	478	981	800	737	44.57
+761	Peking Union Medical College	China	355	478	281	800	637	44.57
+762	Yamagata University	Japan	355	478	760	609	481	44.57
+763	University of Cordoba (Spain)	Spain	355	478	623	609	737	44.57
+764	University of Mons	Belgium	355	478	789	609	481	44.57
+765	Saga University	Japan	355	478	773	800	481	44.57
+766	Clarkson University	USA	355	305	943	800	552	44.57
+767	University of South Alabama	USA	355	478	966	800	307	44.56
+768	Inje University	South Korea	355	478	828	800	227	44.56
+769	University of Caen Lower Normandy	France	193	478	626	609	552	44.56
+770	University of Castilla at La Mancha	Spain	355	478	631	609	552	44.56
+771	Czech Technical University in Prague	Czech Republic	336	478	698	406	737	44.56
+772	Saitama Medical University	Japan	355	478	912	609	426	44.56
+773	Istanbul Technical University	Turkey	355	388	641	363	637	44.56
+774	Kaohsiung Medical University	Taiwan	355	478	562	800	552	44.56
+775	University of Electro-Communications	Japan	140	478	846	609	373	44.56
+776	Yeungnam University	South Korea	355	454	768	800	227	44.55
+777	Jawaharlal Nehru Centre for Advanced Scientific Research	India	355	478	865	493	426	44.55
+778	Putra University, Malaysia	Malaysia	355	478	932	800	159	44.55
+779	Institut national des sciences AppliquĂ©es de Lyon	France	355	478	517	609	481	44.55
+780	University of Perpignan Via Domitia	France	144	478	957	609	737	44.55
+781	University of Miyazaki	Japan	259	478	924	609	280	44.55
+782	Second Military Medical University	China	355	478	641	609	307	44.55
+783	Northern Arizona University	USA	355	478	934	609	552	44.55
+784	Ecole Polytechnique de Montreal	Canada	355	478	679	800	373	44.55
+785	University of Salento	Italy	355	478	662	493	637	44.54
+786	Fukuoka University	Japan	355	478	972	800	259	44.54
+787	Nagoya Institute of Technology	Japan	355	310	775	609	280	44.54
+788	Ankara University	Turkey	355	461	751	493	737	44.54
+789	Blaise Pascal University	France	355	478	735	406	481	44.54
+790	University of Electronic Science and Technology of China	China	355	400	589	800	259	44.54
+791	National Sun Yat-sen University	Taiwan	355	478	453	800	737	44.54
+792	University of Rouen	France	350	478	689	609	280	44.54
+793	Bowling Green State University	USA	355	365	907	609	737	44.54
+794	Norwegian University of Life Sciences	Norway	355	478	757	493	637	44.54
+795	University of Picardie Jules Verne	France	355	478	803	363	481	44.54
+796	Michigan Technological University	USA	323	478	779	406	481	44.53
+797	University of Concepcion	Chile	355	478	704	800	426	44.53
+798	China Medical University (Taiwan)	Taiwan	355	478	475	800	737	44.53
+799	University of Hohenheim	Germany	355	478	753	609	637	44.53
+800	Aberystwyth University	United Kingdom	355	478	818	493	481	44.53
+801	Wilfrid Laurier University	Canada	355	240	987	800	737	44.53
+802	Cairo University	Egypt	310	473	701	609	737	44.52
+803	University of Murcia	Spain	355	478	547	493	426	44.52
+804	Palacky University, Olomouc	Czech Republic	355	478	771	609	481	44.52
+805	Taipei Medical University	Taiwan	355	478	542	493	552	44.52
+806	University of Bradford	United Kingdom	355	341	851	609	481	44.52
+807	King Fahd University of Petroleum and Minerals	Saudi Arabia	355	230	954	800	737	44.52
+808	Ege University	Turkey	355	478	734	406	737	44.52
+809	University of Belgrade	Serbia	280	478	448	493	737	44.51
+810	University of Eastern Piedmont Amedeo Avogadro	Italy	355	478	835	609	637	44.51
+811	Budapest University of Technology and Economics	Hungary	238	478	714	800	552	44.51
+812	University of Salzburg	Austria	355	367	970	800	737	44.51
+813	University of Massachusetts Lowell	USA	355	478	926	406	227	44.51
+814	Jaume I University	Spain	355	478	806	609	481	44.5
+815	Chongqing University	China	355	302	705	609	637	44.5
+816	Beijing Institute of Technology	China	355	478	601	609	637	44.5
+817	Manchester Metropolitan University	United Kingdom	355	442	919	800	481	44.5
+818	Zhengzhou University	China	355	463	725	800	637	44.49
+819	Dublin City University	Ireland	355	478	807	493	280	44.49
+820	National University of Ireland, Maynooth	Ireland	215	478	1000	800	552	44.49
+821	Kangwon National University	South Korea	355	478	707	609	338	44.49
+822	Royal Veterinary College, University of London	United Kingdom	205	478	827	493	737	44.49
+823	Wright State University - Dayton	USA	355	478	794	800	737	44.49
+824	Capital Medical University	China	355	478	618	609	737	44.48
+825	University of Brighton	United Kingdom	355	478	860	800	552	44.48
+826	Sofia University	Bulgaria	234	478	798	406	737	44.48
+827	University of Regina	Canada	355	478	889	609	338	44.48
+828	Magna Graecia University of Catanzaro	Italy	355	478	939	800	552	44.48
+829	Chungbuk National University	South Korea	355	478	751	800	338	44.47
+830	Kochi University	Japan	355	478	925	800	426	44.47
+831	University of New Brunswick	Canada	355	329	719	800	552	44.47
+832	Sejong University	South Korea	355	478	778	800	373	44.47
+833	Sharif University of Technology	Iran	355	478	588	493	737	44.47
+834	Chung-Ang University	South Korea	355	478	676	609	280	44.47
+835	Queens College, City University of New York	USA	303	368	992	800	637	44.46
+836	Murdoch University	Australia	355	478	812	800	737	44.46
+837	Chosun University	South Korea	355	478	918	800	194	44.46
+838	Vilnius University	Lithuania	326	478	790	609	737	44.46
+839	University of Maribor	Slovenia	355	478	866	609	552	44.46
+840	Ritsumeikan University	Japan	355	281	870	493	426	44.46
+841	University of Sassari	Italy	355	478	740	800	737	44.46
+842	Nanjing Normal University	China	355	436	777	609	552	44.45
+843	University of Franche-Comte	France	284	478	832	609	637	44.45
+844	University of Texas at El Paso	USA	355	391	897	609	737	44.45
+845	Rio de Janeiro State University	Brazil	355	478	754	493	637	44.45
+846	Jinan University	China	355	290	855	800	481	44.45
+847	University of Massachusetts Boston	USA	355	478	864	406	737	44.45
+848	University of Alcala	Spain	355	478	738	800	637	44.45
+849	Tehran University of Medical Sciences	Iran	355	478	603	800	737	44.45
+850	University of the Ryukyus	Japan	355	478	887	609	552	44.45
+851	University of Angers	France	355	478	824	800	552	44.45
+852	Fluminense Federal University	Brazil	355	300	783	609	737	44.45
+853	Florida Institute of Technology	USA	355	478	959	363	737	44.44
+854	Trent University	Canada	355	478	912	493	637	44.44
+855	National Chung Cheng University	Taiwan	355	478	760	800	737	44.44
+856	Bilkent University	Turkey	355	478	788	609	737	44.44
+857	National Taiwan Normal University	Taiwan	355	345	721	493	737	44.44
+858	Saitama University	Japan	355	318	912	493	637	44.44
+859	RMIT University	Australia	355	478	690	800	637	44.44
+860	Hamamatsu University School of Medicine	Japan	355	478	966	609	637	44.44
+861	University of Greifswald	Germany	355	478	741	800	637	44.44
+862	University of Pecs	Hungary	355	478	963	800	373	44.44
+863	University of Fukui	Japan	355	478	879	800	737	44.44
+864	Oakland University	USA	355	478	883	800	737	44.44
+865	Nanjing University of Technology	China	355	478	810	800	227	44.44
+866	University of Technology, Sydney	Australia	355	478	613	493	426	44.43
+867	University of North Carolina at Greensboro	USA	355	478	936	609	552	44.43
+868	All India Institute of Medical Sciences, New Delhi	India	355	478	879	609	637	44.43
+869	Kyoto Institute of Technology	Japan	355	478	927	800	307	44.43
+870	Ocean University of China	China	355	478	703	800	481	44.43
+871	Chiang Mai University	Thailand	355	478	838	609	737	44.43
+872	University of Camerino	Italy	355	478	844	800	637	44.43
+873	Hirosaki University	Japan	355	478	952	609	426	44.43
+874	University of North Dakota	USA	355	478	935	800	426	44.43
+875	University of Extremadura	Spain	355	478	729	800	637	44.42
+876	Teikyo University	Japan	355	478	965	800	737	44.42
+877	Jiangnan University	China	355	478	873	800	552	44.42
+878	Adam Mickiewicz University in Poznan	Poland	233	478	665	800	481	44.42
+879	University of Waikato	New Zealand	355	340	973	493	481	44.42
+880	University of Veterinary Medicine Vienna	Austria	355	478	853	609	637	44.42
+881	University of Cadiz	Spain	355	478	863	800	373	44.42
+882	Florida Atlantic University	USA	355	478	848	800	737	44.42
+883	Huazhong Agricultural University	China	355	478	691	609	481	44.41
+884	Brock University	Canada	355	478	899	609	552	44.41
+885	University of Lleida	Spain	355	478	871	609	637	44.41
+886	Shanghai Normal University	China	355	458	974	800	737	44.41
+887	Jean Monnet University	France	355	478	661	800	552	44.41
+888	Shimane University	Japan	355	478	922	609	637	44.41
+889	University of Orleans	France	355	478	743	609	637	44.41
+890	University of Siegen	Germany	355	478	877	406	737	44.41
+891	Makerere University	Uganda	355	478	915	609	737	44.4
+892	University of Wales, Trinity Saint David	United Kingdom	355	478	966	406	737	44.4
+893	National Taiwan University of Science and Technology	Taiwan	355	478	610	800	737	44.4
+894	University of Brasilia	Brazil	355	450	785	800	737	44.4
+895	University of Western Brittany	France	355	478	834	800	481	44.4
+896	Nanjing Agricultural University	China	355	478	674	800	637	44.4
+897	National University of Cordoba	Argentina	355	478	713	609	737	44.39
+898	Federal University of Santa Catarina	Brazil	355	478	608	800	737	44.39
+899	National Taiwan Ocean University	Taiwan	355	317	774	800	737	44.39
+900	Gazi University	Turkey	355	478	742	609	737	44.39
+901	National University of Colombia	Colombia	355	297	882	609	737	44.39
+902	University of Jaen	Spain	355	478	932	493	426	44.39
+903	Bogazici University	Turkey	355	478	817	493	737	44.39
+904	Jadavpur University	India	355	478	871	493	737	44.39
+905	Pukyong National University	South Korea	355	478	904	800	373	44.39
+906	University of Western Sydney	Australia	355	478	693	609	737	44.39
+907	Northeastern University (China)	China	355	425	797	800	737	44.39
+908	University of Mannheim	Germany	355	478	949	493	737	44.39
+909	University of Osnabrueck	Germany	355	478	841	800	737	44.38
+910	Charles Darwin University	Australia	355	478	911	609	737	44.38
+911	University of Hyderabad	India	355	478	857	800	737	44.38
+912	Northwest University (China)	China	355	478	969	609	737	44.38
+913	University of Southern Mississippi	USA	355	478	903	800	737	44.38
+914	University of Wroclaw	Poland	344	478	732	800	737	44.38
+915	Carlos III University of Madrid	Spain	355	478	669	800	307	44.38
+916	Novosibirsk State University	Russia	147	478	875	609	737	44.38
+917	Nanjing Medical University	China	355	478	672	800	737	44.38
+918	Nicolaus Copernicus University in Torun	Poland	355	478	879	493	552	44.38
+919	Federal University of Santa Maria	Brazil	355	414	985	800	737	44.37
+920	Chemnitz University of Technology	Germany	355	330	988	800	373	44.37
+921	Southwest University	China	264	478	760	609	737	44.37
+922	Wroclaw University of Technology	Poland	355	443	771	800	737	44.37
+923	University of California, Merced	USA	355	478	957	800	338	44.37
+924	United Arab Emirates University	United Arab Emirates	355	478	983	800	426	44.36
+925	Federal University of Soo Carlos	Brazil	355	478	688	800	737	44.36
+926	University of Thessaly	Greece	355	478	867	609	737	44.36
+927	University of Basilicata	Italy	355	478	938	609	737	44.36
+928	Feng Chia University	Taiwan	355	376	869	800	737	44.36
+929	Federal University of Parana	Brazil	355	478	730	800	737	44.36
+930	University of Almeria	Spain	355	478	959	800	737	44.36
+931	Hallym University	South Korea	355	478	942	800	552	44.36
+932	Fourth Military Medical University	China	355	478	680	609	552	44.36
+933	University of the Republic (Uruguay)	Uruguay	355	478	940	800	737	44.35
+934	Dokuz Eyluel University	Turkey	355	478	948	800	737	44.35
+935	Nanjing University of Aeronautics and Astronautics	China	355	478	775	800	737	44.35
+936	Public University of Navarre	Spain	355	478	959	800	552	44.35
+937	University of A Coruna	Spain	355	478	947	800	426	44.35
+938	Isfahan University of Technology	Iran	355	478	722	609	737	44.34
+939	University of New England (Australia)	Australia	355	478	916	493	637	44.34
+940	Federal University of Pernambuco	Brazil	355	478	765	800	373	44.34
+941	Jiangsu University	China	355	478	836	800	280	44.34
+942	Third Military Medical University	China	355	478	800	609	481	44.34
+943	South China Normal University	China	355	478	737	800	637	44.33
+944	University of Limerick	Ireland	355	478	897	800	373	44.33
+945	Xiangtan University	China	355	393	893	800	737	44.33
+946	Yangzhou University	China	355	478	928	800	737	44.33
+947	Northwestern Polytechnical University	China	355	417	628	800	737	44.33
+948	University of Reims Champagne-Ardenne	France	355	478	977	609	481	44.33
+949	Ibaraki University	Japan	355	478	995	609	737	44.33
+950	Chung Shan Medical University	Taiwan	355	478	750	609	737	44.32
+951	Alexandria University	Egypt	254	478	963	800	737	44.32
+952	Yuan Ze University	Taiwan	355	478	894	800	737	44.32
+953	University of Cyprus	Cyprus	355	478	802	609	737	44.32
+954	University of Silesia	Poland	355	478	815	609	737	44.32
+955	Southern Medical University	China	355	478	873	800	637	44.32
+956	Shiraz University	Iran	355	478	860	609	737	44.32
+957	University of Bucharest	Romania	321	478	837	609	737	44.32
+958	Mansoura University	Egypt	355	478	978	609	737	44.31
+959	Amirkabir University of Technology	Iran	355	478	769	609	737	44.31
+960	Beijing Jiaotong University	China	355	478	971	800	280	44.31
+961	University of Valenciennes and Hainaut-Cambresis	France	355	478	840	493	737	44.31
+962	University of the Algarve	Portugal	355	478	951	800	737	44.31
+963	University of Chemistry and Technology, Prague	Czech Republic	355	478	994	800	737	44.31
+964	Federal University of Ceara	Brazil	355	478	826	800	737	44.31
+965	Ain Shams University	Egypt	355	478	891	609	737	44.31
+966	University of Oldenburg	Germany	355	478	849	800	737	44.31
+967	Federal University of Bahia	Brazil	355	478	981	609	737	44.31
+968	Hunan Normal University	China	355	478	923	800	737	44.3
+969	Western Michigan University	USA	355	478	962	800	737	44.3
+970	University of Seoul	South Korea	355	478	997	609	552	44.3
+971	Federico Santa Maria Technical University	Chile	355	478	984	493	481	44.3
+972	Ryerson University	Canada	355	478	813	609	637	44.3
+973	South China Agricultural University	China	355	478	946	800	737	44.3
+974	Fu Jen Catholic University	Taiwan	355	478	978	800	737	44.3
+975	China Pharmaceutical University	China	355	478	919	800	552	44.3
+976	Tarbiat Modares University	Iran	355	478	811	800	737	44.29
+977	University of Puerto Rico at Mayagueez	Puerto Rico	355	478	999	609	737	44.29
+978	National University of Rosario	Argentina	355	478	976	800	737	44.29
+979	University of Pau and Pays de l'Adour	France	355	478	988	800	737	44.29
+980	Xidian University	China	355	478	888	800	373	44.29
+981	Zhejiang University of Technology	China	355	478	917	800	637	44.28
+982	China Medical University (PRC)	China	355	478	849	800	737	44.28
+983	Federal University of ABC	Brazil	355	478	952	609	737	44.28
+984	King Juan Carlos University	Spain	355	478	859	800	737	44.27
+985	Beijing University of Technology	China	355	478	809	609	637	44.27
+986	Guangxi University	China	313	478	919	800	637	44.27
+987	Northwest A&F University	China	355	478	787	800	737	44.27
+988	Shanxi University	China	355	478	885	800	737	44.26
+989	Tamkang University	Taiwan	355	478	929	800	737	44.26
+990	Harbin Medical University	China	355	478	900	800	737	44.26
+991	Zhejiang Normal University	China	355	478	905	800	737	44.26
+992	King Abdulaziz University	Saudi Arabia	355	470	843	609	637	44.26
+993	Iran University of Science and Technology	Iran	355	478	822	493	737	44.25
+994	I-Shou University	Taiwan	355	478	878	800	737	44.24
+995	University of Maine (Le Mans)	France	355	478	990	800	637	44.24
+996	National Dong Hwa University	Taiwan	355	478	901	800	737	44.24
+997	National Taipei University of Technology	Taiwan	355	478	867	800	737	44.24
+998	Shaanxi Normal University	China	355	478	956	800	737	44.23
+999	National University of Defense Technology	China	355	478	860	800	637	44.21
+1000	Yanbian University	China	355	478	890	800	737	44.18
