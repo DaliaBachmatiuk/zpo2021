@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProgrammingGeekTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-12-16T15:42:03" hostname="DESKTOP-21JGPHJ" time="0.082">
+  <properties/>
+  <testcase name="shouldReturnTrueForPerfectNumber()" classname="ProgrammingGeekTest" time="0.053"/>
+  <testcase name="shouldCalculateFactorial()" classname="ProgrammingGeekTest" time="0.014"/>
+  <testcase name="shouldConvertToCamelCase()" classname="ProgrammingGeekTest" time="0.01"/>
+  <testcase name="shouldReturnFalseForNonPerfectNumber()" classname="ProgrammingGeekTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
