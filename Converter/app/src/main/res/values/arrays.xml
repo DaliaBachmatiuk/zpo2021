@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="Scales">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
