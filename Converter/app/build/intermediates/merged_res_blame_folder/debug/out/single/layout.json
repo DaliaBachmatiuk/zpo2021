@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Dalia\\studia\\5sem\\zpo\\Converter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "D:\\Dalia\\studia\\5sem\\zpo\\Converter\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Dalia\\studia\\5sem\\zpo\\Converter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "D:\\Dalia\\studia\\5sem\\zpo\\Converter\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "D:\\Dalia\\studia\\5sem\\zpo\\Converter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "D:\\Dalia\\studia\\5sem\\zpo\\Converter\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\Dalia\\studia\\5sem\\zpo\\Converter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Dalia\\studia\\5sem\\zpo\\Converter\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Dalia\\studia\\5sem\\zpo\\Converter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\converter.xml",
+        "source": "D:\\Dalia\\studia\\5sem\\zpo\\Converter\\app\\src\\main\\res\\layout\\converter.xml"
+    }
+]

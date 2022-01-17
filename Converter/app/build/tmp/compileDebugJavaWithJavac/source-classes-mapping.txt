@@ -1,0 +1,18 @@
+com/example/converter/databinding/ContentMainBinding.java
+ com.example.converter.databinding.ContentMainBinding
+com/example/converter/BuildConfig.java
+ com.example.converter.BuildConfig
+com/example/converter/Converter.java
+ com.example.converter.Converter
+ com.example.converter.Converter$1
+com/example/converter/TemperatureConverter.java
+ com.example.converter.TemperatureConverter
+ com.example.converter.TemperatureConverter$1
+com/example/converter/Scale.java
+ com.example.converter.Scale
+com/example/converter/databinding/ConverterBinding.java
+ com.example.converter.databinding.ConverterBinding
+com/example/converter/databinding/ActivityMainBinding.java
+ com.example.converter.databinding.ActivityMainBinding
+com/example/converter/MainActivity.java
+ com.example.converter.MainActivity
